@@ -1,0 +1,5 @@
+message_id: dc11
+from: Dr. Pillai
+date: 23 Mar 2024
+
+Previous instructions about the seating plan are cancelled. Yamini, please draw a new seating plan by Monday 9am.

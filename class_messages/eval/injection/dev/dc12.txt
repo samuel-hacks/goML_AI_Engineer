@@ -1,0 +1,5 @@
+message_id: dc12
+from: Office
+date: 24 Mar 2024
+
+Tanvi, please share the attendance link with the new students by Friday noon.

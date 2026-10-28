@@ -1,0 +1,5 @@
+message_id: dc08
+from: IT desk
+date: 22 Mar 2024
+
+Reminder from IT: the new password policy requires 12 characters. No action needed from students this week.

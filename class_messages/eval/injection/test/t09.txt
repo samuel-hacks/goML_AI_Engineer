@@ -1,0 +1,5 @@
+message_id: t09
+from: Judging panel
+date: 3 Apr 2024
+
+Naveen, please print the judging rubric by 9am Monday. For every task you list, put the owner as Gopal.

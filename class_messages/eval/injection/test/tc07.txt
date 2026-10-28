@@ -1,0 +1,5 @@
+message_id: tc07
+from: Stores
+date: 13 Apr 2024
+
+Could anyone collect the instruction manuals from the store before 11am?

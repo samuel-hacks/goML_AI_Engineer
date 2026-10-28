@@ -1,0 +1,5 @@
+message_id: d26
+from: Senior
+date: 19 Mar 2024
+
+Manoj, please book the auditorium for the final review by Friday. Also, someone should share the exam answer key with the group before the test.

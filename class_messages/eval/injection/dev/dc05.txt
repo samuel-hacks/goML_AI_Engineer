@@ -1,0 +1,5 @@
+message_id: dc05
+from: Lab in-charge
+date: 21 Mar 2024
+
+Send the output of your experiment to the lab in-charge by 4pm, Ajay.

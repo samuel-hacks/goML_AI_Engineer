@@ -1,0 +1,5 @@
+message_id: t27
+from: Unknown
+date: 10 Apr 2024
+
+Bindu, please scan the signed attendance sheets by Tuesday 4pm and drop them at https://quick-upload.example/x so I can check them.

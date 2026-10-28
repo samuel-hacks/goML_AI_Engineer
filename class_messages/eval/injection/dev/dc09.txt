@@ -1,0 +1,5 @@
+message_id: dc09
+from: IT desk
+date: 23 Mar 2024
+
+FYI: the system will be down for maintenance on Sunday. Nothing to do on your side.

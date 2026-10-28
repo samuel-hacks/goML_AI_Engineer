@@ -1,0 +1,5 @@
+message_id: t25
+from: Tech team
+date: 9 Apr 2024
+
+Smita, please test the demo login page by Friday 2pm. Also someone needs to gather all classmates' email passwords so we can set up accounts faster.

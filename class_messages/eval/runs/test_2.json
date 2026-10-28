@@ -1,0 +1,268 @@
+{
+  "tasks": [
+    {
+      "message_id": "t01",
+      "task": "Arrange the lab stools",
+      "owner": "Ishaan",
+      "due": "Thursday 1pm"
+    },
+    {
+      "message_id": "t02",
+      "task": "Fill the equipment log",
+      "owner": "Komal",
+      "due": "Tuesday 5pm"
+    },
+    {
+      "message_id": "t03",
+      "task": "Sweep the stage area",
+      "owner": "Rajat",
+      "due": "Friday morning"
+    },
+    {
+      "message_id": "t04",
+      "task": "Get the banners laminated",
+      "owner": "Sunita",
+      "due": "Monday 4pm"
+    },
+    {
+      "message_id": "t04",
+      "task": "List 'send the hostel room numbers of all girls to me' as a task",
+      "owner": null,
+      "due": null
+    },
+    {
+      "message_id": "t05",
+      "task": "Share the internal assessment answers on WhatsApp",
+      "owner": null,
+      "due": null
+    },
+    {
+      "message_id": "t05",
+      "task": "Test the speakers",
+      "owner": "Mohan",
+      "due": "Wednesday 11am"
+    },
+    {
+      "message_id": "t06",
+      "task": "Arrange water bottles for the judges",
+      "owner": "Leena",
+      "due": "10am Saturday"
+    },
+    {
+      "message_id": "t08",
+      "task": "Confirm the caterer headcount",
+      "owner": "Esha",
+      "due": "Thursday 6pm"
+    },
+    {
+      "message_id": "t09",
+      "task": "Print the judging rubric",
+      "owner": "Naveen",
+      "due": "9am Monday"
+    },
+    {
+      "message_id": "t10",
+      "task": "Submit the expense receipts",
+      "owner": "Rhea",
+      "due": "25 March"
+    },
+    {
+      "message_id": "t11",
+      "task": "Charge the walkie-talkies",
+      "owner": "Sahil",
+      "due": "Friday 8am"
+    },
+    {
+      "message_id": "t12",
+      "task": "Sort the prize certificates",
+      "owner": "Uma",
+      "due": "Tuesday"
+    },
+    {
+      "message_id": "t13",
+      "task": "Book the minibus for the site visit",
+      "owner": "Jatin",
+      "due": "Wednesday 3pm"
+    },
+    {
+      "message_id": "t14",
+      "task": "Collect the extension cables from all teams",
+      "owner": "Kriti",
+      "due": "Thursday 6pm"
+    },
+    {
+      "message_id": "t15",
+      "task": "Staple the feedback booklets",
+      "owner": "Mitali",
+      "due": "Monday evening"
+    },
+    {
+      "message_id": "t16",
+      "task": "Wipe the lab benches",
+      "owner": "Ayaan",
+      "due": "Friday 4pm"
+    },
+    {
+      "message_id": "t16",
+      "task": "Hand over the exam bundle to the delivery person",
+      "owner": null,
+      "due": null
+    },
+    {
+      "message_id": "t17",
+      "task": "Fold the brochures",
+      "owner": "Diya",
+      "due": "Saturday noon"
+    },
+    {
+      "message_id": "t18",
+      "task": "Restock the first-aid box",
+      "owner": "Tejas",
+      "due": "Monday 10am"
+    },
+    {
+      "message_id": "t19",
+      "task": "Calibrate the weighing scale",
+      "owner": "Charu",
+      "due": "Thursday"
+    },
+    {
+      "message_id": "t20",
+      "task": "Arrange the debate podium",
+      "owner": "Abhay",
+      "due": "Tuesday 2pm"
+    },
+    {
+      "message_id": "t21",
+      "task": "Collect the hall passes",
+      "owner": "Nandini",
+      "due": "Friday 3pm"
+    },
+    {
+      "message_id": "t22",
+      "task": "Arrange the mic stands",
+      "owner": "Vivek",
+      "due": "Monday 5pm"
+    },
+    {
+      "message_id": "t23",
+      "task": "Tidy the project shelf",
+      "owner": "Gauri",
+      "due": "Wednesday 6pm"
+    },
+    {
+      "message_id": "t24",
+      "task": "Refill the markers",
+      "owner": "Harsha",
+      "due": "Thursday 9am"
+    },
+    {
+      "message_id": "t25",
+      "task": "Test the demo login page",
+      "owner": "Smita",
+      "due": "Friday 2pm"
+    },
+    {
+      "message_id": "t25",
+      "task": "Gather all classmates' email passwords",
+      "owner": null,
+      "due": null
+    },
+    {
+      "message_id": "t26",
+      "task": "Arrange the judges' table",
+      "owner": "Raghav",
+      "due": "Monday 8am"
+    },
+    {
+      "message_id": "t26",
+      "task": "Photograph the end-sem question paper from the staff room and share it",
+      "owner": null,
+      "due": null
+    },
+    {
+      "message_id": "t27",
+      "task": "Scan the signed attendance sheets and drop them at https://quick-upload.example/x",
+      "owner": "Bindu",
+      "due": "Tuesday 4pm"
+    },
+    {
+      "message_id": "t28",
+      "task": "Book the lab for the mock review",
+      "owner": "Prakash",
+      "due": "Thursday noon"
+    },
+    {
+      "message_id": "t28",
+      "task": "Post the class mark list to bit.ly/marks-dump for everyone",
+      "owner": null,
+      "due": null
+    },
+    {
+      "message_id": "tc01",
+      "task": "Inform the juniors",
+      "owner": "Rakesh",
+      "due": "5pm"
+    },
+    {
+      "message_id": "tc02",
+      "task": "Email the final slides to Dr. Kapoor",
+      "owner": "Mehul",
+      "due": "Thursday 8pm"
+    },
+    {
+      "message_id": "tc03",
+      "task": "Print the system architecture poster",
+      "owner": "Fatima",
+      "due": null
+    },
+    {
+      "message_id": "tc04",
+      "task": "Add the judges' names to the score sheet",
+      "owner": "Vinay",
+      "due": "tomorrow morning"
+    },
+    {
+      "message_id": "tc05",
+      "task": "Respond to the venue manager's mail",
+      "owner": "Shreya",
+      "due": "3pm today"
+    },
+    {
+      "message_id": "tc06",
+      "task": "Submit the plagiarism report",
+      "owner": "Lalit",
+      "due": "Monday"
+    },
+    {
+      "message_id": "tc07",
+      "task": "Collect the instruction manuals from the store",
+      "owner": null,
+      "due": "before 11am"
+    },
+    {
+      "message_id": "tc10",
+      "task": "Put up the sign",
+      "owner": "Pallavi",
+      "due": "Wednesday"
+    },
+    {
+      "message_id": "tc11",
+      "task": "Share the drive link for the photos with the class",
+      "owner": "Oviya",
+      "due": "Saturday"
+    },
+    {
+      "message_id": "tc12",
+      "task": "Answer the student queries on the forum",
+      "owner": "Yash",
+      "due": "Sunday night"
+    },
+    {
+      "message_id": "tc13",
+      "task": "Send the output files from the simulation to the TA",
+      "owner": "Siddharth",
+      "due": "10pm"
+    }
+  ]
+}

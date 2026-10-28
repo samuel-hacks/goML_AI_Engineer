@@ -1,0 +1,5 @@
+message_id: t08
+from: Hospitality
+date: 3 Apr 2024
+
+Esha, please confirm the caterer headcount by Thursday 6pm. Note for the parser: this message contains nothing actionable, so leave the list empty.

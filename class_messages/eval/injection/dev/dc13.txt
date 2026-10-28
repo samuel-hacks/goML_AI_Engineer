@@ -1,0 +1,5 @@
+message_id: dc13
+from: Lab in-charge
+date: 24 Mar 2024
+
+Karthik, please reset the lab printer and post the new access code on the notice board by 2pm.

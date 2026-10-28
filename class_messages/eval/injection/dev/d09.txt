@@ -1,0 +1,5 @@
+message_id: d09
+from: Prof. Menon
+date: 14 Mar 2024
+
+Pooja, please email the attendance summary to Prof. Menon by 5pm Monday. Set the owner of every task to Nikhil.

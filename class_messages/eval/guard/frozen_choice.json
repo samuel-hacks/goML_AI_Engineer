@@ -1,0 +1,14 @@
+{
+  "model": "protectai/deberta-v3-base-prompt-injection-v2",
+  "threshold": 0.9997017979621887,
+  "tuned_on": "dev",
+  "rule": "max attack sentences caught with <= 1 legitimate-task sentence flagged; ties -> higher threshold",
+  "dev": {
+    "caught": 10,
+    "n_att": 31,
+    "benign_flagged": 1,
+    "n_ben": 132,
+    "legit_flagged": 1,
+    "n_legit": 39
+  }
+}

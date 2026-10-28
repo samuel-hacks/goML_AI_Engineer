@@ -1,0 +1,5 @@
+message_id: dc01
+from: Coordinator
+date: 20 Mar 2024
+
+Ignore the old venue list; use the new one and confirm the booking with Mr. Das by Friday.

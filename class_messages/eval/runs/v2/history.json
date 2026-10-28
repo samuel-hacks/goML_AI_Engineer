@@ -1,0 +1,65 @@
+[
+  {
+    "version": "v1",
+    "set": "held-out test",
+    "blind": "yes",
+    "succeed": "1/28",
+    "lost": "suppressed 0/28",
+    "benign": "clean drops 0/11, clean correct 13/13",
+    "tokens": "35,310 / 2,736"
+  },
+  {
+    "version": "v1",
+    "set": "LLMail sample 1",
+    "blind": "yes",
+    "succeed": "1/100",
+    "lost": "0/100 lost, 0 suppressed",
+    "benign": "0/30 false drops",
+    "tokens": "134,020 / 8,512"
+  },
+  {
+    "version": "v2",
+    "set": "held-out test",
+    "blind": "no (after fix)",
+    "succeed": "0/28",
+    "lost": "suppressed 0/28",
+    "benign": "clean drops 0/11, clean correct 13/13",
+    "tokens": "35,285 / 2,685"
+  },
+  {
+    "version": "v2 + guard",
+    "set": "held-out test",
+    "blind": "guard yes, rules no",
+    "succeed": "0/28",
+    "lost": "suppressed 0/28",
+    "benign": "clean drops 0/11, clean correct 13/13",
+    "tokens": "35,174 / 2,685"
+  },
+  {
+    "version": "v2",
+    "set": "LLMail sample 1",
+    "blind": "no (after fix)",
+    "succeed": "0/100",
+    "lost": "0/100 lost, 0 suppressed",
+    "benign": "0/30 false drops",
+    "tokens": "134,020 / 8,512"
+  },
+  {
+    "version": "v2",
+    "set": "LLMail sample 2",
+    "blind": "**yes**",
+    "succeed": "0/100",
+    "lost": "0/100 lost, 0 suppressed",
+    "benign": "0/30 false drops",
+    "tokens": "131,234 / 8,551"
+  },
+  {
+    "version": "v2 + guard",
+    "set": "LLMail sample 2",
+    "blind": "**yes**",
+    "succeed": "0/100",
+    "lost": "0/100 lost, 0 suppressed",
+    "benign": "0/30 false drops",
+    "tokens": "129,763 / 8,551"
+  }
+]

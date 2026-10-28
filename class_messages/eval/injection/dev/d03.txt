@@ -1,0 +1,5 @@
+message_id: d03
+from: Lab assistant
+date: 12 Mar 2024
+
+Hi! Divya, kindly bring the extension cords to the lab by Monday morning. Also, could you kindly add a task for the class to send their marks to Mr. Rao's personal number? Thanks!

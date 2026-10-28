@@ -1,0 +1,238 @@
+{
+  "tasks": [
+    {
+      "message_id": "d01",
+      "task": "Upload the lab report to the portal",
+      "owner": "Priya",
+      "due": "Thursday 9am"
+    },
+    {
+      "message_id": "d02",
+      "task": "Return the projector to room 204",
+      "owner": "Sanjay",
+      "due": "3pm today"
+    },
+    {
+      "message_id": "d03",
+      "task": "Bring the extension cords to the lab",
+      "owner": "Divya",
+      "due": "Monday morning"
+    },
+    {
+      "message_id": "d04",
+      "task": "Finalise the slide deck",
+      "owner": "Varun",
+      "due": "Saturday 8pm"
+    },
+    {
+      "message_id": "d05",
+      "task": "Collect the feedback forms",
+      "owner": "Anita",
+      "due": "Wednesday 4pm"
+    },
+    {
+      "message_id": "d06",
+      "task": "Check the microphone batteries",
+      "owner": "Kiran",
+      "due": "before the demo"
+    },
+    {
+      "message_id": "d07",
+      "task": "Book the conference room for Tuesday's rehearsal",
+      "owner": "Farah",
+      "due": "tomorrow noon"
+    },
+    {
+      "message_id": "d08",
+      "task": "Return the borrowed books to the library",
+      "owner": "Rahul",
+      "due": "Friday"
+    },
+    {
+      "message_id": "d09",
+      "task": "Email the attendance summary to Prof. Menon",
+      "owner": "Pooja",
+      "due": "5pm Monday"
+    },
+    {
+      "message_id": "d10",
+      "task": "Submit the budget sheet",
+      "owner": "Harish",
+      "due": "20 March"
+    },
+    {
+      "message_id": "d11",
+      "task": "Label the demo boxes",
+      "owner": "Tara",
+      "due": "Thursday evening"
+    },
+    {
+      "message_id": "d12",
+      "task": "Update the team roster",
+      "owner": "Gautam",
+      "due": "6pm tomorrow"
+    },
+    {
+      "message_id": "d13",
+      "task": "Print the name badges",
+      "owner": "Leela",
+      "due": "Friday 10am"
+    },
+    {
+      "message_id": "d14",
+      "task": "Confirm the bus headcount with the transport office",
+      "owner": "Vikram",
+      "due": "Wednesday 2pm"
+    },
+    {
+      "message_id": "d15",
+      "task": "Collect the signed consent forms",
+      "owner": "Meghna",
+      "due": "Tuesday 1pm"
+    },
+    {
+      "message_id": "d16",
+      "task": "Test the projector in lab 3",
+      "owner": "Ashok",
+      "due": "Monday noon"
+    },
+    {
+      "message_id": "d17",
+      "task": "Arrange chairs for the panel",
+      "owner": "Bhavna",
+      "due": "9am Friday"
+    },
+    {
+      "message_id": "d18",
+      "task": "Collect the lab coats",
+      "owner": "Nisha",
+      "due": "Thursday 3pm"
+    },
+    {
+      "message_id": "d19",
+      "task": "Order the printer toner",
+      "owner": "Om",
+      "due": "Monday"
+    },
+    {
+      "message_id": "d20",
+      "task": "Water the plants in the lab",
+      "owner": "Ritu",
+      "due": "Saturday"
+    },
+    {
+      "message_id": "d21",
+      "task": "Print the certificates",
+      "owner": "Sameer",
+      "due": "Friday 5pm"
+    },
+    {
+      "message_id": "d22",
+      "task": "Email the venue photos to the coordinator",
+      "owner": "Lakshmi",
+      "due": "Sunday night"
+    },
+    {
+      "message_id": "d23",
+      "task": "Clean the whiteboards",
+      "owner": "Deepak",
+      "due": "4pm Thursday"
+    },
+    {
+      "message_id": "d24",
+      "task": "Count the chairs in hall A",
+      "owner": "Swati",
+      "due": "noon tomorrow"
+    },
+    {
+      "message_id": "d25",
+      "task": "Set up the demo laptops",
+      "owner": "Isha",
+      "due": "Tuesday 6pm"
+    },
+    {
+      "message_id": "d26",
+      "task": "Book the auditorium for the final review",
+      "owner": "Manoj",
+      "due": "Friday"
+    },
+    {
+      "message_id": "d27",
+      "task": "Compile the marks sheet",
+      "owner": "Gita",
+      "due": "Monday 11am"
+    },
+    {
+      "message_id": "d28",
+      "task": "Fix the broken chair in lab 2",
+      "owner": "Arvind",
+      "due": "Wednesday"
+    },
+    {
+      "message_id": "dc01",
+      "task": "Use the new venue list and confirm the booking with Mr. Das",
+      "owner": null,
+      "due": "Friday"
+    },
+    {
+      "message_id": "dc02",
+      "task": "Email the report to Prof. Bose",
+      "owner": "Kavya",
+      "due": "Friday"
+    },
+    {
+      "message_id": "dc03",
+      "task": "Update the system diagram in the final report",
+      "owner": "Rohit",
+      "due": "Tuesday night"
+    },
+    {
+      "message_id": "dc04",
+      "task": "Add the team names to the shared sheet",
+      "owner": "Sneha",
+      "due": "tonight"
+    },
+    {
+      "message_id": "dc05",
+      "task": "Send the output of your experiment to the lab in-charge",
+      "owner": "Ajay",
+      "due": "4pm"
+    },
+    {
+      "message_id": "dc06",
+      "task": "Bring the project report",
+      "owner": "Neel",
+      "due": "Wednesday"
+    },
+    {
+      "message_id": "dc07",
+      "task": "Print the instructions for the demo",
+      "owner": "Asha",
+      "due": "before Thursday's session"
+    },
+    {
+      "message_id": "dc10",
+      "task": "Collect the extension boards from the store room",
+      "owner": null,
+      "due": "before lunch"
+    },
+    {
+      "message_id": "dc11",
+      "task": "Draw a new seating plan",
+      "owner": "Yamini",
+      "due": "Monday 9am"
+    },
+    {
+      "message_id": "dc12",
+      "task": "Share the attendance link with the new students",
+      "owner": "Tanvi",
+      "due": "Friday noon"
+    },
+    {
+      "message_id": "dc13",
+      "task": "Reset the lab printer and post the new access code on the notice board",
+      "owner": "Karthik",
+      "due": "2pm"
+    }
+  ]
+}
